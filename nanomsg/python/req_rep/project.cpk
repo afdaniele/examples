@@ -1,0 +1,9 @@
+{
+    "description": "Publisher-Subscriber in python zeromq",
+    "maintainer": "Andrea F. Daniele",
+    "name": "nanomsg_req_rep",
+    "organization": "afdaniele-examples",
+    "schema": "1.0",
+    "template": null,
+    "version": "0.0.0"
+}
